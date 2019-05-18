@@ -1,0 +1,91 @@
+Assembler report for DE10_Standard_golden_top
+Sat May 18 10:28:14 2019
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Assembler Summary
+  3. Assembler Settings
+  4. Assembler Generated Files
+  5. Assembler Device Options: J:/03_DE10_Standard/code/My_Audio/output_files/DE10_Standard_golden_top.sof
+  6. Assembler Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; Assembler Summary                                             ;
++-----------------------+---------------------------------------+
+; Assembler Status      ; Successful - Sat May 18 10:28:14 2019 ;
+; Revision Name         ; DE10_Standard_golden_top              ;
+; Top-level Entity Name ; DE10_Standard_golden_top              ;
+; Family                ; Cyclone V                             ;
+; Device                ; 5CSXFC6D6F31C6                        ;
++-----------------------+---------------------------------------+
+
+
++----------------------------------+
+; Assembler Settings               ;
++--------+---------+---------------+
+; Option ; Setting ; Default Value ;
++--------+---------+---------------+
+
+
++-----------------------------------------------------------------------------+
+; Assembler Generated Files                                                   ;
++-----------------------------------------------------------------------------+
+; File Name                                                                   ;
++-----------------------------------------------------------------------------+
+; J:/03_DE10_Standard/code/My_Audio/output_files/DE10_Standard_golden_top.sof ;
++-----------------------------------------------------------------------------+
+
+
++-------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: J:/03_DE10_Standard/code/My_Audio/output_files/DE10_Standard_golden_top.sof ;
++----------------+--------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                              ;
++----------------+--------------------------------------------------------------------------------------+
+; JTAG usercode  ; 0x00B46245                                                                           ;
+; Checksum       ; 0x00B46245                                                                           ;
++----------------+--------------------------------------------------------------------------------------+
+
+
++--------------------+
+; Assembler Messages ;
++--------------------+
+Info: *******************************************************************
+Info: Running Quartus Prime Assembler
+    Info: Version 17.0.0 Build 595 04/25/2017 SJ Standard Edition
+    Info: Processing started: Sat May 18 10:28:07 2019
+Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off DE10_Standard_golden_top -c DE10_Standard_golden_top
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (115030): Assembler is generating device programming files
+Info: Quartus Prime Assembler was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4858 megabytes
+    Info: Processing ended: Sat May 18 10:28:14 2019
+    Info: Elapsed time: 00:00:07
+    Info: Total CPU time (on all processors): 00:00:07
+
+

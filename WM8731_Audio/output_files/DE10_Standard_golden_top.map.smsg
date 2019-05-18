@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at Audio_Control.v(278): always construct contains both blocking and non-blocking assignments File: J:/03_DE10_Standard/code/My_Audio/V_File/Audio_Control.v Line: 278
